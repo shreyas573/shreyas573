@@ -48,6 +48,7 @@ solutions for real-world problems.
 🚀 Continuously learning and building
 
 AI / ML Journey
+
                          👋 SHREYAS K G
                               │
                    🤖 AI/ML ENGINEER
@@ -74,15 +75,19 @@ AI / ML Journey
              │                │                │
        Heart Attack      AI Resume       Field-Service
         Prediction        Screener        Automation
+
 🛠️ Tech Stack
+
 👨‍💻 Programming Languages
 <p align="left"> <img src="https://skillicons.dev/icons?i=python,java,c,javascript,sql" /> </p>
+
 🤖 AI / Machine Learning
 <p align="left"> <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" /> </p>
 
 Scikit-learn • Pandas • NumPy • SHAP • XGBoost
 
 🧠 Generative AI
+
 LLM
  │
  ├── Prompt Engineering
@@ -97,6 +102,7 @@ LLM
  ├── AI Agents
  │
  └── Agentic AI
+
 🌐 Web / Application Development
 
 Streamlit • Flask • REST APIs • HTML • CSS • JavaScript
@@ -107,3 +113,70 @@ MySQL • SQL • SQLite
 
 🔧 Tools
 <p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" /> </p>
+
+Currently Learning
+
+                    GENERATIVE AI
+                         │
+              ┌──────────┴──────────┐
+              ↓                     ↓
+             LLM                   RAG
+              │                     │
+              ↓                     ↓
+        Prompt Engineering     Vector Search
+              │                     │
+              └──────────┬──────────┘
+                         ↓
+                    AI AGENTS
+                         │
+                         ↓
+                   AGENTIC AI
+                         │
+                         ↓
+                PRODUCTION AI
+
+📈 My AI/ML Skill Map
+Python              ████████████████████
+Machine Learning    ██████████████████
+SQL                 ████████████████
+Data Analysis       ███████████████
+NLP                 █████████████
+Deep Learning       ███████████
+Generative AI       ███████████
+RAG                 ██████████
+AI Agents           ████████
+
+
+
+My Development Workflow
+        💡 IDEA
+          │
+          ↓
+    🎯 PROBLEM DEFINITION
+          │
+          ↓
+     📊 DATA COLLECTION
+          │
+          ↓
+      🧹 DATA CLEANING
+          │
+          ↓
+      🔍 EDA / ANALYSIS
+          │
+          ↓
+      🤖 MODEL BUILDING
+          │
+          ↓
+      ⚙️ OPTIMIZATION
+          │
+          ↓
+       🔎 XAI / TESTING
+          │
+          ↓
+       🚀 DEPLOYMENT
+          │
+          ↓
+     📈 MONITORING
+
+
+⭐ Thanks for visiting my profile!
