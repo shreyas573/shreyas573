@@ -104,8 +104,6 @@ Streamlit • Flask • REST APIs • HTML • CSS • JavaScript
 
 MySQL • SQL • SQLite
 
-🔧 Tools
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" /> </p>
 
 Currently Learning
 
