@@ -76,13 +76,6 @@ AI / ML Journey
        Heart Attack      AI Resume       Field-Service
         Prediction        Screener        Automation
 
-🛠️ Tech Stack
-
-👨‍💻 Programming Languages
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,java,c,javascript,sql" /> </p>
-
-🤖 AI / Machine Learning
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" /> </p>
 
 Scikit-learn • Pandas • NumPy • SHAP • XGBoost
 
