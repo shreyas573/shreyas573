@@ -15,8 +15,8 @@ solutions for real-world problems.
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-shreyas573-181717?style=for-the-badge&logo=github)](https://github.com/shreyas573)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/shreyas-g-poojary-shreyas-92a0942a0)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shreyas573.github.io/portfolio/)
 
 <br>
 
